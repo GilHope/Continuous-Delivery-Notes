@@ -7,6 +7,7 @@ Based on the Book by Jez Humble and David Farley
 
 - **CI Pipeline**
     - Runs on every commit with little or no delay (p55, p63).
+    - Big or small, every project gets version controlled (p56).
     - CI should ideally take about 90 seconds, about five minutes is good, but never any longer than 10 minutes (p61).
     - Notifies you of success or failure (p63).
 - **Dev Environment (p62)**
@@ -29,10 +30,6 @@ Based on the Book by Jez Humble and David Farley
     - Always be prepared to revert to previous revision.
         - If you can't fix the problem quickly then revert to previous. Thats why we have revision control.
     - Don't comment out failing tests.
-
-- Version Control
-    - Big or small, every project gets version controlled (p56).
- 
 
 
 ## General Info
