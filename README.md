@@ -29,7 +29,7 @@ Based on the Book by Jez Humble and David Farley
         - Check in regularly and early. Do not wait to end of work day.
     - Always be prepared to revert to previous revision.
         - If you can't fix the problem quickly then revert to previous. Thats why we have revision control.
-    - Don't comment out failing tests.
+    - Don't comment out failing tests. If the test is failing, then fix it.
 
 
 ## General Info
