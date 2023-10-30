@@ -1,7 +1,7 @@
 # Continuous-Delivery-Notes
 Based on the Book by Jez Humble and David Farley
 
-### Continuous Integration
+### Continuous Integration, Chapter II
 
 - On every commit, entire app is built, and tested against. Failures are fixed immediately.
 
@@ -32,6 +32,8 @@ Based on the Book by Jez Humble and David Farley
     - Don't comment out failing tests. If the test is failing, then fix it.
 
 - **Branching**
+
+### The Deployment Pipeline, Chapter V
 
 
 ## General Info
