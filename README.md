@@ -35,6 +35,15 @@ Based on the Book by Jez Humble and David Farley
 
 ### The Deployment Pipeline, Chapter V
 
+- The commit stage asserts that the system works at technical level. It compiles, passes primarily automated unit test suite, and runs code analysis.
+
+- The automated acceptance test stages assert that the system works at functional and nonfunctional level and that it meets the needs of its users.
+
+- The manual test stages assert the system is usable and fulfills its requirements, it detects any defects not caught by automated tests, and verifies is provides its value to customer.
+
+- **Deployment Pipeline Practices
+    - 
+
 
 ## General Info
 
