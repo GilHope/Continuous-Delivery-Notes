@@ -49,3 +49,7 @@ Based on the Book by Jez Humble and David Farley
 
 - Continuous integration first written of in Kent Beck's _Extreme Programming Explained_ (1999)
 - 
+
+
+# Additional resources
+- Continuous Delivery https://www.youtube.com/watch?v=x9l6yw1PFbs&list=PLwLLcwQlnXBzhxIXSbtDPX78zYTgvST0B&index=1&t=510s
