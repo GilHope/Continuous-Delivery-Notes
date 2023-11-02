@@ -41,6 +41,8 @@ Based on the Book by Jez Humble and David Farley
 
 - The manual test stages assert the system is usable and fulfills its requirements, it detects any defects not caught by automated tests, and verifies is provides its value to customer.
 
+- Release stage delivers the system to users, either as packaged software or by deploying it into a production identical to the production environment.
+
 - **Deployment Pipeline Practices
     - 
 
